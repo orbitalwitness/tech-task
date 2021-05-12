@@ -1,4 +1,4 @@
-# Orbital Witness Technical Test
+# Orbital Witness Technical Task
 
 This document contains instructions for candidates to follow as part of the Orbital Witness Technical Assessment. We look forward to your submission.
 
