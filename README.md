@@ -81,7 +81,6 @@ It has 2 pages: titles and favorites. Each of them is selectable through sidebar
 - We love automated tests as well :)
 - Please don’t use any UI frameworks (like material-UI); build everything in pure HTML and CSS/SCSS/CSS-in-JS, whatever suits you the best.
 - We don’t care about the icons, but they should be consistent across the app. Possible use https://fonts.google.com/icons?selected=Material+Icons? Again, whatever source you have is fine.
-- We don’t care about the icons, but they should be consistent across the app. Possible use https://fonts.google.com/icons?selected=Material+Icons? Again, whatever source you have is fine.
 
 ## Finally
 
