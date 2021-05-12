@@ -2,9 +2,6 @@
 
 This document contains instructions for candidates to follow as part of the Orbital Witness Technical Assessment. We look forward to your submission.
 
-# Instructions
-
-
 # Objective
 At Orbital Witness, we deal with a variety of data. One of them is data on titles from the Land Registry. In this assessment, we have provided an analogue of what we usually deal with on a day-to-day basis.
 
@@ -13,7 +10,7 @@ As a User, I want to browse through an extensive list of titles efficiently, so 
 
 ## Acceptance Criteria
 
-# App
+# Instructions
 To complete the task, you need to create an app based on [these wireframes](https://github.com/orbitalwitness/tech-test/tree/main/wireframes).
 
 ## Functionality
