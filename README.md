@@ -36,6 +36,22 @@ App fetches [the JSON data about titles we’ve provided to you](https://github.
 It has 2 pages: titles, and favorites. Each of them is selectable through sidebar navigation.
 
 ## Titles page
+
+<details>
+<summary>Show wireframes</summary>
+<p>
+
+#### List of titles and title details
+
+![Titles page](wireframes/Titles%20page.png)
+
+#### Dropdown filter
+
+![Titles page - dropdown](wireframes/Titles%20page%20-%20dropdown.png)
+
+</p>
+</details>
+
  - This page contains a table of titles. It must be paginated; you need to display 20 titles on every page. **Be careful with the URL**; I want to stay on page 6 if I refresh the page!
  - Hover over a row makes is gray, and click on it opens the titles details to the right. Selected title’s row should stay gray. **This is a thing only on desktop**; on mobile, you should just add a title to the favorites.
  - Click on the star in title details makes the title a favorite (and makes the star purple).
@@ -43,6 +59,17 @@ It has 2 pages: titles, and favorites. Each of them is selectable through sideba
  - On click of the table header cell “Title number”, you should sort the titles ascending (A-Z). Another click sorts it descending. 3rd click sorts it initially.
 
 ## Favorites page
+
+<details>
+<summary>Show wireframes</summary>
+<p>
+
+![Favourites page](wireframes/Favourites%20page.png)
+
+</p>
+</details>
+
+
 - This page contains all the titles which are favorites. Click on any just removes them from the list.
 
 ## What you should focus on
