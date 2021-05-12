@@ -8,8 +8,6 @@ At Orbital Witness, we deal with a variety of data. One of them is data on title
 ## User Story
 As a User, I want to browse through an extensive list of titles efficiently, so I can look at its details and favourite them.
 
-## Acceptance Criteria
-
 # Instructions
 To complete the task, you need to create an app based on [these wireframes](https://github.com/orbitalwitness/tech-test/tree/main/wireframes).
 
