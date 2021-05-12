@@ -22,19 +22,19 @@ App fetches [the JSON data about titles we’ve provided to you](https://github.
 ```
 [
     {
-        "id":"1",
-        "titleNumber":"ABC123",
+        "id":"0",
+        "titleNumber":"MYBKZ10625",
         "titleClass":"Freehold",
-        "content":"Lorem ipsum",
-        "isFavorite":"false"
+        "isFavorite":true,
+        "content":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean convallis lectus velit, ac mollis lorem fringilla ac. In consequat molestie dui, et pellentesque nisl convallis at. Curabitur dictum lacinia justo, pulvinar pharetra purus ru"
     },
     {
-        "id":"2",
-        "titleNumber":"DEFIGH123",
+        "id":"1",
+        "titleNumber":"GP51",
         "titleClass":"Leasehold",
-        "content":"Lorem ipsum",
-        "isFavorite":"true"
-    }
+        "isFavorite":true,
+        "content":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean convallis lectus velit, ac mollis lorem fringilla ac. In consequa"
+    },
 ]
 ```
 
