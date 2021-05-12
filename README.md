@@ -14,10 +14,10 @@ As a User, I want to browse through an extensive list of titles efficiently, so 
 ## Acceptance Criteria
 
 # App
-To complete the task, you need to create an app based on these wireframes.
+To complete the task, you need to create an app based on [these wireframes](https://github.com/orbitalwitness/tech-test/tree/main/wireframes).
 
 ## Functionality
-App fetches the JSON data about titles we’ve provided to you. It’s formatted like:
+App fetches [the JSON data about titles we’ve provided to you](https://github.com/orbitalwitness/tech-test/tree/main/data). It’s formatted like:
 
 ```
 [
