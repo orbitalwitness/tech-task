@@ -33,7 +33,7 @@ App fetches [the JSON data about titles we’ve provided to you](https://github.
 ]
 ```
 
-It has 2 pages: titles and favorites. Each of them is selectable through sidebar navigation.
+It has a single page: titles.
 
 ## Titles page
 
@@ -58,19 +58,6 @@ It has 2 pages: titles and favorites. Each of them is selectable through sidebar
  - On click of the table header cell “Class of title”, a dropdown should open with two checkboxes. They should filter Freehold/Leasehold classes.
  - On click of the table header cell “Title number”, you should sort the titles ascending (A-Z). First click sorts it ascending, second click sorts it descending and a third click sorts it back to ascending.
 
-## Favorites page
-
-<details>
-<summary>Show wireframes</summary>
-<p>
-
-![Favourites page](wireframes/Favourites%20page.png)
-
-</p>
-</details>
-
-
-- This page contains all the titles which are favorites. Click on any just removes them from the list.
 
 ## What you should focus on
 - Obviously, this needs to be done with React (and Typescript). Use the best patterns you know here, and don’t hack anything just because it’s a small app. Imagine that you’re creating a new feature for your commercial project. Using stuff like Router, Store, etc. is preferred.
