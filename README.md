@@ -60,7 +60,7 @@ It has a single page: titles.
 
 
 ## What you should focus on
-- Obviously, this needs to be done with React (and Typescript). Use the best patterns you know here, and don’t hack anything just because it’s a small app. Imagine that you’re creating a new feature for your commercial project. Using stuff like Router, Store, etc. is preferred.
+- Obviously, this needs to be done with React (and Typescript). Use the best patterns you know here, and don’t hack anything just because it’s a small app. Imagine that you’re creating a new feature for your commercial project.
 - Let us know in the README how we can start the app.
 - Margins and paddings don’t have to be the same as shown in the wireframes. However, they should all be divisible by 4. Use your common sense when deciding about their exact values across the app. Same goes with the font sizes.
 - CLEAN CODE! **You don’t need to implement everything, but whatever you do implement should showcase your best work**.
