@@ -6,8 +6,8 @@ This document contains instructions for candidates to follow as part of the Orbi
 At Orbital Witness, we deal with a variety of data formats and structures. One of them is data on [titles](https://eservices.landregistry.gov.uk/eservices/FindAProperty/view/resources/example_register.pdf) from the Land Registry. In this assessment, we have provided a small sample of the data we deal with on a day-to-day basis.
 
 ## User Story
-**AS A** user of the app you create 
-**I WANT** to browse through a list of Land registry titles 
+**AS A** user of the app you create\
+**I WANT** to browse through a list of Land registry titles\
 **SO THAT** I can efficiently look through the details of each title
 
 # Instructions
