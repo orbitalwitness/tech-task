@@ -31,7 +31,8 @@ Clicking on a title within the table with take the user to a title details page 
 </p>
 </details>
 
- - This page contains a table of titles. It must be paginated and you should display 5 titles on every page. The user should be able to share the url to colleagues and see the same results.
+ - This page contains a table of titles. It must be paginated and you should display 5 titles on every page. 
+ - The user should be able to share the url to colleagues and see the same results.
  - Hovering over a row turns it grey and click on it opens the titles details page.
  - On click of the table header cell, you should sort the column's data. First click sorts it ascending, second click sorts it descending and a third click returns to it's original sort order.
 
@@ -48,7 +49,8 @@ Clicking on a title within the table with take the user to a title details page 
 </p>
 </details>
 
- - This page shows all the details of the selected title. The user should be able to share the url to colleagues and see the same results.
+ - This page shows all the details of the selected title. 
+ - The user should be able to share the url to colleagues and see the same results.
  - A map is included that shows the location of the title with a pin to mark the position and zoomed/panned appropriately so that the selected title is visible.
  - There should be a back button to return to the list of titles.
 
