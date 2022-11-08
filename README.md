@@ -62,6 +62,7 @@ Clicking on a title within the table with take the user to a title details page 
 - The designs are based on the 8pt grid.
 - CLEAN CODE! **You don’t need to implement everything, but whatever you do implement should showcase your best work**.
 - Responsive design! Care about widths from 375px to 1280px. It should look appropriate on all of those widths.
+- Your code should ship with unit tests.
 - We love automated tests as well :)
 - We don’t care about the icons, but they should be consistent across the app. Possible use https://fonts.google.com/icons?selected=Material+Icons? Again, whatever source you have is fine.
 - The wireframes are not designs. Feel free to add your own design flair to the pages.
