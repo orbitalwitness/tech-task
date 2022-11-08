@@ -35,7 +35,7 @@ Clicking on a title within the table with take the user to a title details page 
  - Hovering over a row turns it grey and click on it opens the titles details page.
  - On click of the table header cell, you should sort the column's data. First click sorts it ascending, second click sorts it descending and a third click returns to it's original sort order.
 
-## Title Detailspage
+## Title details page
 
 <details>
 <summary>Show wireframe</summary>
