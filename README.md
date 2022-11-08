@@ -8,7 +8,7 @@ At Orbital Witness, we deal with a variety of data formats and structures. One o
 ## User Story
 **AS A** user of the app you create 
 **I WANT** to browse through a list of Land registry titles 
-**SO THAT** I can efficiently look through the details of each title and favourite them
+**SO THAT** I can efficiently look through the details of each title
 
 # Instructions
 To complete the task you need to create an app based on [these wireframes](https://github.com/orbitalwitness/tech-test/tree/main/wireframes).
