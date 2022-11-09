@@ -26,7 +26,7 @@ Clicking on a title within the table with take the user to a title details page 
 
 #### List of titles and title details
 
-![Titles page](wireframes/Titles%20page.png)
+![Titles page](wireframes/TitleListPage.png)
 
 </p>
 </details>
@@ -44,7 +44,7 @@ Clicking on a title within the table with take the user to a title details page 
 
 #### List of titles and title details
 
-![Titles page](wireframes/Titles%20page.png)
+![Title Details page](wireframes/TitleDetailsPage.png)
 
 </p>
 </details>
