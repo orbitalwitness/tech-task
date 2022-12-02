@@ -16,7 +16,7 @@ To complete the task you need to create an app based on [these wireframes](https
 ## Functionality
 App will load and display a table of available titles. The title data is available from the hosted [API](https://owfetechtask.blob.core.windows.net/titledata/testdata.json). The table should be sortable and include pagination.
 
-Clicking on a title within the table with take the user to a title details page that displays all the known data for the selected titles, including a map of the title's location. The map should include a pin and be zoomed appropriately to show where the title is located.
+Clicking on a title within the table with take the user to a title details page that displays all the known data for the selected titles, including a map of the title's location. The map should include a pin and be zoomed appropriately to show where the title is located. The title number is a unique identifier for each title.
 
 ## Titles page
 
