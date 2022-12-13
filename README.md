@@ -69,4 +69,4 @@ Clicking on a title within the table with take the user to a title details page 
 
 ## Finally
 
-Good luck and have fun with this task! 🚀
+Good luck and have fun with this task! 💪
