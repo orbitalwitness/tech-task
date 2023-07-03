@@ -78,10 +78,11 @@ As a Geospatial candidate, we want you to focus more of your time and effort on 
 
 As per the requirements above, there should be a map element, with a marker on the co-ordinates provided. The map should also:
 
-- Include one or more layers from an OGC datasource of your choice. We recommend using a free data api, but you're welcome to use a paid for one and send us the required auth for your solution separately.
-  - Points will be granted for creativity. Keep in mind the potential for non-GIS experts to maintain and even extend this code, testability, and performance.
+- Include one or more layers from an OGC datasource of your choice.
+  - We recommend using a free data api, but you're welcome to use a paid for one and send us the required auth for your solution separately.  
+  - Keep in mind the potential for non-GIS experts to maintain and even extend this code, testability, and performance.
 - Include a user-friendly control panel, allowing a user to configure which layers are available or not.
-- Allow a user to draw geometry, and then send that to a mock server for persistence. 
+- Points will be granted for creativity, think about how a user might interact with a Layer and the kind of functionality you've implemented previously.
 
 ## Finally
 
